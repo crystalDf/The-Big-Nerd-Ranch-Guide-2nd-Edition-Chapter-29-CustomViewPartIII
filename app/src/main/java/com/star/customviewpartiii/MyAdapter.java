@@ -32,4 +32,5 @@ public class MyAdapter extends ArrayAdapter<String> {
 
         return convertView;
     }
+
 }

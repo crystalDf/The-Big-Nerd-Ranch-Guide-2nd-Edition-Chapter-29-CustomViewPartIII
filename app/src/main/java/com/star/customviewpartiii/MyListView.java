@@ -113,4 +113,5 @@ public class MyListView extends ListView {
     public interface OnDeleteListener {
         void onDelete(int index);
     }
+
 }
